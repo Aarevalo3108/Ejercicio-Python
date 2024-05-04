@@ -7,7 +7,7 @@
 - python-dotenv (para las variables de entorno asociadas a las credenciales del correo)
 - pywhatkit (para enviar los mensajes de whatsapp y los correos)
 
-# Iniciar crear e iniciar virtual
+# Crear e iniciar entorno virtual
 
 ```
 py -m venv [nombre-de-la-carpeta]
